@@ -10,4 +10,5 @@ name = "scn"
 path = "src/main.rs"
 
 [dependencies]
+libc = "0.2.124"
 log = "0.4.16"
